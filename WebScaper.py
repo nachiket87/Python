@@ -6,6 +6,8 @@ Created on Sun Aug 11 16:13:39 2019
 @author: nachiketpusalkar
 """
 
+#git changed something
+
 from bs4 import BeautifulSoup
 import requests
 import csv
