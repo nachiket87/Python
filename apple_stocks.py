@@ -1,6 +1,9 @@
 #failed the first attempt
+'''objective is to find the maximum profit that can be obtained by buying and selling a stock. list contains prices of stocks throughout
+the day and the index is the time since market opening. No short selling allowed or if prices continue to go down, return mininum loss - 
+used greedy algorithm. '''
 
-stock_prices = [100, 17, 6, 5, 4, 3, 2]
+stock_prices = [10, 7, 6, 5, 4, 3, 20]
 
 def get_max_profit(stock_prices):
 
