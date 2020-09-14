@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug 30 16:11:05 2019
-
-@author: nachiketpusalkar
-"""
-
 graph = {}
 graph["start"] = {} 
 graph["start"]["a"] = 6

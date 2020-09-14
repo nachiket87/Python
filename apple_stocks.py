@@ -4,6 +4,7 @@ the day and the index is the time since market opening. No short selling allowed
 used greedy algorithm. '''
 
 stock_prices = [10, 7, 6, 5, 4, 3, 20]
+wrong_prices = [1,2,3]
 
 def get_max_profit(stock_prices):
 
