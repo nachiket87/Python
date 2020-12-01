@@ -1,0 +1,4 @@
+node_modules/
+.vim/
+catan/
+__pycache__/
